@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yeabtsega Mesfin @YeabtsegaM</h1>
-<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Yeabtsega Mesfin</h1>
 
 - 🌱 I’m currently learning **a lot of stuff**
 
